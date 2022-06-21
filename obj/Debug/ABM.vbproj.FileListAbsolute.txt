@@ -1,0 +1,67 @@
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ResolveAssemblyReference.cache
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.ABM_Profesores.resources
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.Resources.resources
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.vbproj.GenerateResource.Cache
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\bin\Debug\ABM.exe
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\bin\Debug\ABM.pdb
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\bin\Debug\ABM.xml
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.exe
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.xml
+K:\Guillermo\Sistemas\CURSO\ABM\ABM\obj\Debug\ABM.pdb
+C:\ABM\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.exe
+C:\ABM\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.xml
+C:\ABM\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.pdb
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.exe
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.xml
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.pdb
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.exe
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.pdb
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.xml
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.vbprojAssemblyReference.cache
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.ABM_Profesores.resources
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.Resources.resources
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.vbproj.GenerateResource.cache
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+D:\GUILLERMO\__UNLZ\Clases UNLZ\2021\PROG III 2021\ABM_PARA_CURSO\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.exe.config
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.exe.config
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.exe
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.pdb
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\bin\Debug\ABM.xml
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.vbproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.ABM_Profesores.resources
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.Resources.resources
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.vbproj.GenerateResource.cache
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.exe
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.xml
+C:\Users\juand\OneDrive\Escritorio\ABM_PARA_CURSO\ABM\ABM\obj\Debug\ABM.pdb
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.vbproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.ABM_Profesores.resources
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.Resources.resources
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.vbproj.GenerateResource.cache
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.exe
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.xml
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.pdb
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\bin\Debug\ABM.exe.config
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\bin\Debug\ABM.exe
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\bin\Debug\ABM.pdb
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\bin\Debug\ABM.xml
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.Clientes.resources
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\Clase 9.2\ABM\ABM\obj\Debug\ABM.Proveedores.resources
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\bin\Debug\ABM.exe.config
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\bin\Debug\ABM.exe
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\bin\Debug\ABM.pdb
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\bin\Debug\ABM.xml
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.vbproj.AssemblyReference.cache
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.ABM_Profesores.resources
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.Clientes.resources
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.Resources.resources
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.Proveedores.resources
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.vbproj.GenerateResource.cache
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.vbproj.CoreCompileInputs.cache
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.exe
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.xml
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.pdb
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.Menu.resources
+C:\Users\juand\OneDrive\Documentos\Mis Docs\Faq\Programación 3\TP Final\ABM\ABM\obj\Debug\ABM.Usuarios.resources
